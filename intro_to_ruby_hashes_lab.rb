@@ -1,5 +1,7 @@
 def base_hash
-  railroads = {key}
+  railroads = {
+    :key
+  }
 
 end
 
