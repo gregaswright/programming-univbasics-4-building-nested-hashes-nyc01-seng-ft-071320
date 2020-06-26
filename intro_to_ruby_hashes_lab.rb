@@ -1,7 +1,6 @@
 def base_hash
-  railroads = {
-    :key
-  }
+  railroads = Hash.new { |hash, key| hash[key] =  }
+
 
 end
 
